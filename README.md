@@ -6,7 +6,7 @@
 
 - 📫 How to reach me  **geniusbillionareplayboy123@gmail.com**
 
-- ⚡ Fun fact **I am building this portfolio on github because at no brain state so can expect it to be better in future**
+- ⚡ Fun fact **I am building this portfolio on github  at no brain state so can expect it to be better in future**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
