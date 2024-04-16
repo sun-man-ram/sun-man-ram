@@ -7,7 +7,8 @@
 - 📫 How to reach me  **geniusbillionareplayboy123@gmail.com**
 
 - ⚡ Fun fact **I am building this portfolio on github  at no brain state so can expect it to be better in future**
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+- <p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun-man-ram&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)</p>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
