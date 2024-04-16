@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I am building this portfolio on github  at no brain state so can expect it to be better in future**
 
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun-man-ram&hide_progress=true)
 
   
 
