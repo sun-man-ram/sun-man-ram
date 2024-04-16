@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I am building this portfolio on github  at no brain state so can expect it to be better in future**
 
--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sun-man-ram)](https://github.com/anuraghazra/github-readme-stats)
+-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
   
 
