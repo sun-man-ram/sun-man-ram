@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I am building this portfolio on github  at no brain state so can expect it to be better in future**
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun-man-ram&hide=javascript,css,scss,html&theme=tokyonight)
 
 
   
