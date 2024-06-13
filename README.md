@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Manikanta Sunkara</h1>
+<h1 align="center">Hi 👋, I'm Manikanta Sunkara</h1> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <h3 align="center">A passionate Artificial Intelligence Enthusiast from India currently pursung my integrated studies at University of Hyderabad where i learn and work with Integrated Mtech,mtech and phd guys. i </h3>
 
