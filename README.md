@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-    <h3 align="center">A passionate Artificial Intelligence Enthusiast from India currently pursung my integrated studies at University of Hyderabad where i learn and work with Integrated Mtech,mtech and phd guys. i </h3>
+    <h3 align="center">A passionate Artificial Intelligence Enthusiast from India currently pursung my integrated studies at University of Hyderabad where i learn and work with Integrated Mtech,mtech and phd guys. </h3>
   </td>
 
 <td>
