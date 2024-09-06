@@ -6,7 +6,7 @@
       </td>
 
 <td>
-<img src="profile.jpg">
+
 </td>
   </tr>
 </table>
