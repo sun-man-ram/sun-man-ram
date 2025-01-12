@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm SAIRAM
+<h1 align="center">Hi 👋, I am MANI aka Tony
 <table>
   <tr>
     <td>
@@ -14,11 +14,11 @@
 
 
 
-- 🌱 I’m currently getting my hands dirty on **Systems Programming and Training models**
+- 🌱 I’m currently getting learning Something for placements
   
 - 
 
-- 📫 How to reach me  **geniusbillionareplayboy123@gmail.com**
+- 📫 How to reach me  21mcme20@uohyd.ac.in
 
 
 
