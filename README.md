@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I am MANI aka Tony
+<h1 align="center">Hi 👋, I am Tony
 <table>
   <tr>
     <td>
@@ -18,7 +18,6 @@
   
 - 
 
-- 📫 How to reach me  21mcme20@uohyd.ac.in
 
 
 
