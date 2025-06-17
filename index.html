@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Blog Universe</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: url('thumb-1920-651486.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 50px 20px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 40px;
+      font-size: 2.5em;
+      color: #ffffff;
+      text-shadow: 0 0 10px rgba(255,255,255,0.3);
+    }
+
+    .blog-card {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 16px;
+      padding: 20px 25px;
+      margin-bottom: 25px;
+      transition: transform 0.2s, box-shadow 0.2s;
+      backdrop-filter: blur(10px);
+      cursor: pointer;
+    }
+
+    .blog-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0 25px rgba(0, 255, 255, 0.3);
+    }
+
+    .blog-title {
+      font-size: 1.5em;
+      margin: 0;
+      color: #aadfff;
+    }
+
+    .blog-content {
+      margin-top: 15px;
+      display: none;
+      line-height: 1.6;
+      font-size: 1em;
+      color: #e0e0e0;
+      animation: fadeIn 0.5s ease-in-out;
+    }
+
+    .show {
+      display: block;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2em;
+      }
+      .blog-title {
+        font-size: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 My Cosmic Blog</h1>
+
+    <div class="blog-card" onclick="toggleContent(this)">
+      <h2 class="blog-title">🌌 The Art of Letting Go</h2>
+      <div class="blog-content">
+        <p>Letting go isn't about forgetting. It's about accepting that some things aren't meant to be. Growth often comes from the pain of release.</p>
+      </div>
+    </div>
+
+    <div class="blog-card" onclick="toggleContent(this)">
+      <h2 class="blog-title">💡 Lessons From a Blank Page</h2>
+      <div class="blog-content">
+        <p>Every blank page is a universe waiting to be formed. Don't fear the emptiness — it's where your ideas begin to breathe.</p>
+      </div>
+    </div>
+
+    <div class="blog-card" onclick="toggleContent(this)">
+      <h2 class="blog-title">🪐 Programming in Space</h2>
+      <div class="blog-content">
+        <p>Imagine writing code where a missed semicolon might cost a mission. Space programming isn't science fiction — it's about precision, patience, and trust in logic.</p>
+      </div>
+    </div>
+
+    <div class="blog-card" onclick="toggleContent(this)">
+      <h2 class="blog-title">📷 Moments Through My Lens</h2>
+      <div class="blog-content">
+        <p>Photography helps me freeze time. The beauty of light, shadow, and motion reminds me how much we miss in a single blink.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    function toggleContent(card) {
+      const content = card.querySelector('.blog-content');
+      content.classList.toggle('show');
+    }
+  </script>
+</body>
+</html>
